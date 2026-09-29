@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "Northwind Logistics",
+      "description": "Distributed logistics company evaluating a centralized platform. Primary sponsor: VP of Sales.",
+      "calls": [
+        {
+          "call_id": "northwind-call-01",
+          "date": "2026-09-01",
+          "notes": "Initial discovery call. Northwind Logistics operates a distributed sales and operations team. They want a centralized platform with role-based access, reporting, and easy onboarding. The VP of Sales is the primary business sponsor."
+        },
+        {
+          "call_id": "northwind-call-02",
+          "date": "2026-09-05",
+          "notes": "Pricing discussion. The CFO objected to the per-seat pricing model because the customer has many occasional users. The CFO asked whether an annual contract with predictable pricing could be offered."
+        },
+        {
+          "call_id": "northwind-call-03",
+          "date": "2026-09-10",
+          "notes": "Competitive discussion. The customer mentioned Salesforce as an alternative being evaluated. The customer wants clear evidence that our workflow can be adopted without a long implementation."
+        },
+        {
+          "call_id": "northwind-call-04",
+          "date": "2026-09-15",
+          "notes": "Security review. The customer requested security documentation, including information about data protection and access controls. The security team needs this before the deal can move to final review."
+        },
+        {
+          "call_id": "northwind-call-05",
+          "date": "2026-09-20",
+          "notes": "Commitment from the sales representative: send the requested security report and documentation to the customer. The customer has not yet confirmed that the security review is complete."
+        }
+      ]
+    }
+  ]
+}
